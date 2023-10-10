@@ -19,4 +19,4 @@ const c = protocol.rdp.createClient({
     console.log('err occur!')
 }).connect('example.com', 3389) // address|IP & port
 
-setTimeout(() => c.close(), 6000)
+setTimeout(() => c.close(), 6000) //  execute login task after 6s
