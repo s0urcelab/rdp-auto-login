@@ -1,0 +1,14 @@
+{
+  "name": "rdp",
+  "version": "1.0.0",
+  "description": "node-rdpjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "^1.3.1"
+  }
+}
